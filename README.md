@@ -7,5 +7,5 @@
 - The Amazing World of Gumball
 - Adventure Time
 - Demon Slayer (Anime)
-  > Bananas 
-It goes horziontal --- It goes horziontal 
+Bananas
+- --- It goes horziontal 
