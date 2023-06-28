@@ -8,5 +8,4 @@
 - Adventure Time
 - Demon Slayer (Anime)
 > Bananas
-  --- It goes horziontal 
----
+  --- It goes horziontal
